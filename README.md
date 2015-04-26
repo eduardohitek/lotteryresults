@@ -9,8 +9,8 @@ Usage:
 
 Inside the Project Folder:
 
-"scrapy crawl lotteryresults"
+*"scrapy crawl lotteryresults"*
 
 Outside the Project Folder:
 
-"scrapy runspider <path_to_the_lotteryresults.py> -L ERROR"
+*"scrapy runspider path_to_the_lotteryresults.py -L ERROR"*
